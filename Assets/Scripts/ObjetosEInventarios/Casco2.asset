@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 726b34bdc9e43e64ca20ff9efafb0f80, type: 3}
+  m_Name: Casco2
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 319ca297936e6d04a8f23cf1e4ebeca1, type: 3}
+  nombre: Casco2
+  apilable: 0
+  descripcion: 
+  tipoEquipamiento: 1
+  salud: 10
+  ataque: 1
+  velocidad: 1
